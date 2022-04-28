@@ -1,0 +1,36 @@
+h2{
+    margin-left:80px;
+}
+.left{
+    border: 1px solid black;
+}
+.frameworks{
+    border: 1px solid black;
+    background-color: bisque;
+}
+.frontendcont{
+    border: 1px solid black;
+    width: 100%;
+    margin-top: 10px;
+    background-color: darkgoldenrod;
+}
+.backend{
+    border: 1px solid black;
+}
+.web-design{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    }
+.design{
+    border: 1px solid black;
+    
+}
+.frontend,.backend,.design{
+    width: 30%;
+    background-color: burlywood;
+    
+}
+.left{
+    background-color: bisque;
+}

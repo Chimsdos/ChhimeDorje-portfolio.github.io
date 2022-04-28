@@ -1,0 +1,21 @@
+.images{
+    display:flex;
+    flex-direction: column;
+}
+
+.images>a>img{
+    width: 33%;
+    height: 200px;
+}
+.img2{
+    margin-left: 33.3333%;
+}
+.img3{
+    margin-left: 66%;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    margin-left: 50%;
+}
